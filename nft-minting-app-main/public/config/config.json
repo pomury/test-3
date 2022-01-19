@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe93B0C38478aEb11Bef9FEe364BFCa6C3bB13598",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xe93B0C38478aEb11Bef9FEe364BFCa6C3bB13598",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "Tiger Test",
+  "SYMBOL": "TTT",
+  "MAX_SUPPLY": 2202,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tiger-test-v2-2",
+  "SHOW_BACKGROUND": true
+}
